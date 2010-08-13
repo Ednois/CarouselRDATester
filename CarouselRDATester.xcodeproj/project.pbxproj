@@ -223,6 +223,7 @@
 				GCC_PREFIX_HEADER = CarouselRDATester_Prefix.pch;
 				INFOPLIST_FILE = "CarouselRDATester-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
 				PRODUCT_NAME = CarouselRDATester;
 			};
 			name = Debug;
@@ -237,6 +238,7 @@
 				GCC_PREFIX_HEADER = CarouselRDATester_Prefix.pch;
 				INFOPLIST_FILE = "CarouselRDATester-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
 				PRODUCT_NAME = CarouselRDATester;
 			};
 			name = Release;
